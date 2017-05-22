@@ -1,0 +1,29 @@
+Dongle test:
+- 1 dongle
+    - Advertising normally
+    - Advertising interval 100 ms
+    - 20 cm from antenna to scanner's antenna
+    - Taped to table
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 100 ms
+    - Scan window 100 ms
+    - Taped to table
+- Data collected for 20 sec
+- Fixed orientation
+- Collected in Siebel 3109
+
+Tag test:
+- 1 tag
+    - Advertising normally
+    - Advertising interval 100 ms
+    - 20 cm from antenna to scanner's antenna
+    - Taped to table
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 100 ms
+    - Scan window 100 ms
+    - Taped to table
+- Data collected for 20 sec
+- Fixed orientation
+- Collected in Siebel 3109

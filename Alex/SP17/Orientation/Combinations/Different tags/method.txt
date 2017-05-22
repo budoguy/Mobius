@@ -1,0 +1,1 @@
+These are combinations of the calibration data for all 4 tags at fixed distances but different orientations, e.g. "Tag 1, 20 cm, * deg". The data is not renumbered, but the tags are in order of distance, i.e. Tag 1 is at 20 cm, Tag 2 is at 40 cm, etc.

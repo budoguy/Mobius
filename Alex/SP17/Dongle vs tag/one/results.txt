@@ -1,0 +1,19 @@
+Dongle test 1:
+- Loss: 0.5%
+- RSSI avg: -60.3 dBm
+- RSSI stddev: 7.47 dBm
+
+Tag test 1:
+- Loss: 5.5%
+- RSSI avg: -76.5 dBm
+- RSSI stddev: 6.04 dBm
+
+Dongle test 2:
+- Loss: 2.01%
+- RSSI avg: -56.1 dBm
+- RSSI stddev: 5.75 dBm
+
+Tag test 2:
+- Loss: 2.5%
+- RSSI avg: -74.5 dBm
+- RSSI stddev: 8.61 dBm

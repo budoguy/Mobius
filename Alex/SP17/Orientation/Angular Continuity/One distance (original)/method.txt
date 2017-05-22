@@ -1,0 +1,14 @@
+- 1 tag
+    - Advertising normally
+    - Advertising interval 100 ms
+    - Resting on wooden table
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 500 ms
+    - Scan window 500 ms
+    - 20 cm to tag's antenna
+    - Taped to table
+- Data collected for 20 sec
+- Changed tag orientation, rotating CCW every 22.5 degrees about the antenna trace
+- Fixed receiver orientation at 90 degrees (cable extending away from tag)
+- Collected in Siebel 3109
