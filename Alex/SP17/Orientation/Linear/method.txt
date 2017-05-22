@@ -1,0 +1,18 @@
+- 4 tags
+    - Advertising normally
+    - Advertising interval 100 ms
+    - 20 cm spacing between antennas
+    - Resting on wooden table
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 500 ms
+    - Scan window 500 ms
+    - 20 cm to closest tag, in line with tags
+    - Taped to table
+- Data collected for 20 sec
+- Changed tag orientation, rotating CCW every 90 degrees about the antenna trace
+- Changed receiver orientation, rotating CCW every 90 degrees about the chip antenna
+- Collected at parent's home
+    - All 2.4 GHz radios in the house were turned off
+    - Note: two nearby misconfigured Wi-Fi routers on channels 2 and 10
+        - The one on channel 10 may have contributed to lower RSSI on channel 39

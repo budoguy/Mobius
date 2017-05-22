@@ -1,0 +1,1 @@
+These are combinations of the calibration data for a single tag at a fixed orientation but different distances, e.g. "Tag 1, * cm, 90 deg". The data is renumbered so that the IDs match the distance, i.e. Tag 1 at 60 cm is labeled as being Tag 3.

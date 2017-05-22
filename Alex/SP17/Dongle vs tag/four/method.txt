@@ -1,0 +1,32 @@
+Dongle test:
+- 4 dongles
+    - Advertising normally
+    - Advertising interval 100 ms
+    - 20 cm spacing between antennas
+    - Taped to PVC pipe
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 500 ms
+    - Scan window 500 ms
+    - 20 cm to closest beacon, in line with beacons
+    - Taped to PVC pipe
+- Data collected for 20 sec
+- Fixed orientation
+- Collected in Siebel 3109
+
+Tag test:
+- 4 tags
+    - Advertising normally
+    - Advertising interval 100 ms
+    - 20 cm spacing between antennas
+    - Suspended via string from PVC pipe
+    - Nearby USB cables unplugged
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 500 ms
+    - Scan window 500 ms
+    - 20 cm to closest beacon, in line with beacons
+    - Taped to PVC pipe
+- Data collected for 20 sec
+- Fixed orientation
+- Collected in Siebel 3109

@@ -1,0 +1,15 @@
+- 8 tags
+    - Advertising normally
+    - Advertising interval 100 ms
+    - Resting on wooden table
+    - Numbered 1-8 clockwise with 1 at the 270 degree position
+- 1 Tiny BLE
+    - Scanning normally
+    - Scan interval 500 ms
+    - Scan window 500 ms
+    - 50 cm to tags' antenna
+    - Taped to table
+- Data collected for 20 sec
+- Changed receiver orientation, rotating CCW every 45 degrees about the chip antenna
+- Fixed tag orientation, all facing 270 degrees
+- Collected in Siebel 3109
